@@ -11,17 +11,18 @@
     <value name="SSL_JDBC_Test">1.0</value>
     <value name="JMS2waySSL">1.0</value>
     <value name="JMSTest">1.0</value>
+    <value name="SIQAJDBCAdapterTests">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">24-04-2025 10:32:56 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-04-24T10:35:03.411902158Z</value>
+  <value name="lastUpdated">2025-04-24T10:36:36.991270754Z</value>
   <value name="wmProjectId">fl5d12ff191a3aae31c15f7b</value>
   <value name="creator">siqa developerUser</value>
 </Values>
